@@ -7,7 +7,7 @@
 
 ## Preview
 
-Weather Dashboard: [weatherDashboard](https://pplainx.github.io/weatherDashboard/index.html)
+Weather Dashboard: [weatherDashboard](https://pplainx.github.io/Weather-Calendar/)
 
 
 ## Usage
